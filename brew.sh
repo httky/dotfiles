@@ -23,5 +23,6 @@ brew install clipy --cask
 brew install sourcetree --cask
 brew install macwinzipper --cask
 brew install wireshark --cask # GUI
+brew install gyazo --cask
 
 brew cleanup
