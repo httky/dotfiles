@@ -8,6 +8,7 @@ brew install pyenv-virtualenv
 brew install tree
 brew install awscli
 brew install wireshark # CLI
+brew install gh # GitHub CLI
 
 brew install appcleaner --cask
 brew install dropbox --cask
