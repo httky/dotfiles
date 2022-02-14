@@ -27,5 +27,6 @@ brew install macwinzipper --cask
 brew install wireshark --cask # GUI
 brew install gyazo --cask
 brew install discord --cask
+brew install obs --cask
 
 brew cleanup
