@@ -7,6 +7,6 @@ $ sh setup.sh
 
 - [Homebrew/homebrew](https://github.com/Homebrew/homebrew)
     - [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
-- [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew)
+- [volta-cli/volta](https://github.com/volta-cli/volta)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv)
 

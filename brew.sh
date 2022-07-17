@@ -2,7 +2,6 @@ brew update
 brew upgrade
 brew tap homebrew/cask-versions
 
-brew install nodebrew
 brew install pyenv
 brew install pyenv-virtualenv
 brew install tree
