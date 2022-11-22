@@ -10,6 +10,7 @@ brew install wireshark # CLI
 brew install gh # GitHub CLI
 brew install deno
 brew install git-lfs
+brew install tree
 
 brew install appcleaner --cask
 brew install dropbox --cask
