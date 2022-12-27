@@ -11,6 +11,7 @@ brew install gh # GitHub CLI
 brew install deno
 brew install git-lfs
 brew install tree
+brew install mkcert
 
 brew install appcleaner --cask
 brew install dropbox --cask
