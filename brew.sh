@@ -32,5 +32,6 @@ brew install gyazo --cask
 brew install discord --cask
 brew install obs --cask
 brew install wine-stable --cask
+brew install arduino-ide --cask
 
 brew cleanup
