@@ -18,7 +18,7 @@ brew install appcleaner --cask
 brew install dropbox --cask
 brew install firefox --cask
 brew install google-chrome --cask
-brew install google-chrome-canary --cask
+brew install google-chrome@canary --cask
 brew install google-japanese-ime --cask
 brew install iterm2 --cask
 brew install slack --cask
