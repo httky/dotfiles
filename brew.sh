@@ -13,6 +13,7 @@ brew install git-lfs
 brew install tree
 brew install mkcert
 brew install wabt
+brew install ffmpeg
 
 brew install appcleaner --cask
 brew install dropbox --cask
