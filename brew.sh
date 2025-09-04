@@ -2,8 +2,7 @@ brew update
 brew upgrade
 brew tap homebrew/cask-versions
 
-brew install pyenv
-brew install pyenv-virtualenv
+brew install uv
 brew install tree
 brew install awscli
 brew install wireshark # CLI
@@ -14,6 +13,7 @@ brew install tree
 brew install mkcert
 brew install wabt
 brew install ffmpeg
+brew install cwebp
 
 brew install appcleaner --cask
 brew install dropbox --cask
@@ -29,7 +29,6 @@ brew install clipy --cask
 brew install sourcetree --cask
 brew install macwinzipper --cask
 brew install wireshark --cask # GUI
-brew install gyazo --cask
 brew install discord --cask
 brew install obs --cask
 brew install wine-stable --cask
