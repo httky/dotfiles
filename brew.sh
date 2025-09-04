@@ -14,6 +14,8 @@ brew install mkcert
 brew install wabt
 brew install ffmpeg
 brew install cwebp
+brew install wget
+brew install tmux
 
 brew install appcleaner --cask
 brew install dropbox --cask
@@ -34,5 +36,8 @@ brew install obs --cask
 brew install wine-stable --cask
 brew install arduino-ide --cask
 brew install figma --cask
+brew install gcloud-cli --cask
+brew install ngrok --cask
+brew install postman --cask
 
 brew cleanup
