@@ -8,5 +8,5 @@ $ sh setup.sh
 - [Homebrew/homebrew](https://github.com/Homebrew/homebrew)
     - [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
 - [volta-cli/volta](https://github.com/volta-cli/volta)
-- [nv](https://github.com/astral-sh/uv)
+- [uv](https://github.com/astral-sh/uv)
 
