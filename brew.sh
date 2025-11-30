@@ -17,6 +17,7 @@ brew install cwebp
 brew install wget
 brew install tmux
 brew install codex
+brew install deck
 
 brew install appcleaner --cask
 brew install dropbox --cask
