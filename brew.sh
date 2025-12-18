@@ -42,5 +42,7 @@ brew install figma --cask
 brew install gcloud-cli --cask
 brew install ngrok --cask
 brew install postman --cask
+brew install tailscale --cask
+brew install ghostty --cask
 
 brew cleanup
