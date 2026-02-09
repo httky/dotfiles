@@ -19,6 +19,7 @@ brew install tmux
 brew install codex
 brew install deck
 brew install ni
+brew install mosh
 
 brew install appcleaner --cask
 brew install dropbox --cask
