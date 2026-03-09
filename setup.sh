@@ -1,8 +1,8 @@
 # symlinks
 sh symlinks.sh
 
-# volta
-curl https://get.volta.sh | bash
+# mise
+curl https://mise.run | sh
 
 # install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"

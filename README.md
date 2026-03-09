@@ -6,7 +6,6 @@ $ sh setup.sh
 ```
 
 - [Homebrew/homebrew](https://github.com/Homebrew/homebrew)
-    - [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
-- [volta-cli/volta](https://github.com/volta-cli/volta)
+  - [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask)
+- [mise](https://github.com/jdx/mise)
 - [uv](https://github.com/astral-sh/uv)
-
