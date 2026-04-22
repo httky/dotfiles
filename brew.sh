@@ -31,7 +31,6 @@ brew install iterm2 --cask
 brew install slack --cask
 brew install spectacle --cask
 brew install visual-studio-code --cask
-brew install clipy --cask
 brew install sourcetree --cask
 brew install macwinzipper --cask
 brew install wireshark --cask # GUI
@@ -45,5 +44,6 @@ brew install ngrok --cask
 brew install postman --cask
 brew install tailscale --cask
 brew install ghostty --cask
+brew install raycast --cask
 
 brew cleanup
