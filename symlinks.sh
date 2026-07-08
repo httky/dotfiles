@@ -9,3 +9,4 @@ ln -sf ~/dotfiles/.tmux.conf ~/.tmux.conf
 # claude code
 mkdir -p ~/.claude
 ln -sf ~/dotfiles/.claude/statusline.sh ~/.claude/statusline.sh
+ln -sf ~/dotfiles/.claude/CLAUDE.md ~/.claude/CLAUDE.md
